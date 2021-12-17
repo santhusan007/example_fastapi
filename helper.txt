@@ -1,0 +1,18 @@
+
+to create a virtual environment -
+
+command is :   py -3 -m venv venv
+
+import body for posting message
+
+alembic init alembic
+
+alembic --help
+
+import base to almebic.
+change the target matedata to Base
+
+sqlalchemy.url = postgresql+psycopg2://userpostgreas:1234@localhost:5432/fastapi
+
+fetch ('http//localhost/8000/').then(res => res.json()).then(console.log)
+
