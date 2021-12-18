@@ -16,3 +16,6 @@ sqlalchemy.url = postgresql+psycopg2://userpostgreas:1234@localhost:5432/fastapi
 
 fetch ('http//localhost/8000/').then(res => res.json()).then(console.log)
 
+pip freeze > requirement.txt
+pip install -r requirements.txt
+
